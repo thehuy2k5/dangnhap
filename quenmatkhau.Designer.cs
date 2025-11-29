@@ -82,7 +82,7 @@
             this.button_laylaimatkhau.Name = "button_laylaimatkhau";
             this.button_laylaimatkhau.Size = new System.Drawing.Size(187, 68);
             this.button_laylaimatkhau.TabIndex = 6;
-            this.button_laylaimatkhau.Text = "Lấy lại mật khẩu";
+            this.button_laylaimatkhau.Text = "quên cl ";
             this.button_laylaimatkhau.UseVisualStyleBackColor = false;
             this.button_laylaimatkhau.Click += new System.EventHandler(this.button_laylaimatkhau_Click);
             // 
