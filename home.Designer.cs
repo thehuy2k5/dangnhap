@@ -50,7 +50,7 @@
             this.button_dangxuat.Name = "button_dangxuat";
             this.button_dangxuat.Size = new System.Drawing.Size(268, 117);
             this.button_dangxuat.TabIndex = 1;
-            this.button_dangxuat.Text = "ditcum";
+            this.button_dangxuat.Text = "cmm";
             this.button_dangxuat.UseVisualStyleBackColor = false;
             this.button_dangxuat.Click += new System.EventHandler(this.button_dangxuat_Click);
             // 
